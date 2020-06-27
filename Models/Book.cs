@@ -24,6 +24,7 @@ namespace Libreria.Models
         public int Year { get; set; }
         public string Publisher { get; set; }
 
+        //defininendo caodisd
         
     }
 }
